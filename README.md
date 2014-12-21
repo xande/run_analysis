@@ -24,5 +24,5 @@ This file:
 
 ##CodeBook.md
 
-This file contains information about resulting data sets.
+This file contains information about how to run data processing and resulting data sets.
 
