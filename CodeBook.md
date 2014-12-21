@@ -9,11 +9,11 @@ Work
 ====
 
 1. Download and unzip raw data into the same folder where "run_analysis.R" is located
-* Raw data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+  * Raw data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 1. Execute "ran_analysis.R"
 1. After succesfull run the following files will be generated:
-* data.txt - containing tidy set of merged test and training data
-* activity_subject_means.txt - containing tidy data set with the average of each variable for each activity and each subject.
+  * data.txt - containing tidy set of merged test and training data
+  * activity_subject_means.txt - containing tidy data set with the average of each variable for each activity and each subject.
 
 
 
